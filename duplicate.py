@@ -5,6 +5,8 @@ def greet():
         print("Hello, SonarCloud!")
     print("Testing SonarCloud duplication detection.")
     print("Testing SonarCloud duplication detection.")
+    print("Testing SonarCloud duplication detection.")
+    print("Testing SonarCloud duplication detection.")
 
 
 
