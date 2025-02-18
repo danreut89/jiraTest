@@ -6,6 +6,8 @@ def greet():
     print("Testing SonarCloud duplication detection.")
     print("Testing SonarCloud duplication detection.")  # Duplicate line
     print("Testing SonarCloud duplication detection.")  # Duplicate line
+    print("Testing SonarCloud duplication detection.")  # Duplicate line
+
 
 if __name__ == "__main__":
     greet()
