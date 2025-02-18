@@ -7,8 +7,14 @@ def greet():
     print("Testing SonarCloud duplication detection.")
     print("Testing SonarCloud duplication detection.")
     print("Testing SonarCloud duplication detection.")
-
-
+    print("Testing SonarCloud duplication detection.")
+    print("Testing SonarCloud duplication detection.")
+    print("Testing SonarCloud duplication detection.")
+    print("Testing SonarCloud duplication detection.")
+    print("Testing SonarCloud duplication detection.")
+    print("Testing SonarCloud duplication detection.")
+    print("Testing SonarCloud duplication detection.")
+    print("Testing SonarCloud duplication detection.")
 
 if __name__ == "__main__":
     greet()
